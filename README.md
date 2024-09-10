@@ -1,5 +1,4 @@
-
-[Watch the video](https://username.github.io/repository/)
+<img alt="Sabatino" src="https://github.com/SC-GitHubster/SC-GitHubster/raw/main/Sabatino.jpg" style="width:100%;"/>
 
 ## 👨🏻‍💻 &nbsp;About Me
 After a fulfilling career in marketing, I decided to take a bold leap and graduated from Le Wagon. This transition marked a significant turning point in my life. At Le Wagon, I immersed myself in a rigorous full-stack development program that not only expanded my technical skills but also fostered personal growth.
