@@ -7,7 +7,7 @@ The experience was transformative, providing me with deep insights into how the 
 &nbsp;
 
 ## 📂 &nbsp;Projects
-🍻 Sláinte
+🍻 [Sláinte](https://slainte.online)
 
 Sláinte, meaning "Cheers" in Irish, is a social app that turns good times into great nights. Built in 2 weeks with a 4-person team, it helps users connect, explore, and create memorable experiences. This project showcases rapid development, creativity, and effective collaboration.
 
